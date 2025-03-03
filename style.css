@@ -140,7 +140,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: bold;
+    font-weight: 100;
 }
 .item1 {
     grid-column: span 1;
